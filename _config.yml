@@ -1,6 +1,6 @@
-name: M van Eijgen
+name: All Terrain media
 markdown: redcarpet
-baseurl: "http://mvaneijgen.nl"
+baseurl: "http://atmedia.nl"
 permalink: /blog/:title/
 collections:
   experiments:
