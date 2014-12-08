@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Dec 2014 15:24:50 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2014 15:24:50 +0100</lastBuildDate>
+    <pubDate>Mon, 08 Dec 2014 16:18:09 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Dec 2014 16:18:09 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -70,25 +70,6 @@
         <pubDate>Thu, 08 May 2014 18:22:48 +0200</pubDate>
         <link>/blog/Designers-CLI/</link>
         <guid isPermaLink="true">/blog/Designers-CLI/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>No Excuses</title>
-        <description>&lt;p&gt;After continually letting different writing ideas fall to the wayside week after week, I have buckled down and decided to do something about it.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;My main excuse was... well, I just plain didn&amp;#39;t have anywhere that I can continually write on.&lt;/p&gt;
-
-&lt;p&gt;Second excuse, I haven&amp;#39;t invested the time into sitting down and completely creating my own blog from scratch. In the spirit of just wanting to write, I have spun up and slightly customized a Ghost blog with a theme that someone else created.&lt;/p&gt;
-
-&lt;p&gt;It feels slightly wrong to have not made my site myself, but it feels pretty right to have a home for my articles. So, no more excuses.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 18:22:48 +0200</pubDate>
-        <link>/blog/No-Excuses/</link>
-        <guid isPermaLink="true">/blog/No-Excuses/</guid>
         
         
       </item>
