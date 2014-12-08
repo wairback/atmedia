@@ -1,6 +1,6 @@
 name: All Terrain media
 markdown: redcarpet
-baseurl: "http://atmedia.nl"
+baseurl: "http://wairback.github.io/atmedia/"
 permalink: /blog/:title/
 collections:
   experiments:
